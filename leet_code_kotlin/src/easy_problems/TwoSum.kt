@@ -1,5 +1,7 @@
 package easy_problems
 
+import java.util.*
+
 class TwoSum {
 
     fun twoSum(nums: IntArray, target: Int): IntArray {
